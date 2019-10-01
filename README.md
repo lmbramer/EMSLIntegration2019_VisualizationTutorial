@@ -4,8 +4,16 @@
 Please follow the instructions in [this document](Software_Requirements_2019.pdf)
 
 ## GitHub Pages
+
+### Amplicon Sequencing
 * [pmartRseq](https://github.com/pmartR/pmartRseq)
+* [mead](https://github.com/pmartR/mead)
+
+### Fourier Transform Mass Spectrometry
 * [ftmsRanalysis](https://github.com/EMSL-Computing/ftmsRanalysis)
+* [FREDA](https://msc-viz.emsl.pnnl.gov/FREDA)
+
+### Proteomics, Metabolomics, and/or Lipidomics (LC-/GC-MS)
 * [pmartR](https://github.com/pmartR/pmartR)
 
 ## Workshop Materials
