@@ -3,6 +3,11 @@
 ### Software Requirements
 Please follow the instructions in [this document](Software_Requirements_2019.pdf)
 
+## GitHub Pages
+* [pmartRseq](https://github.com/pmartR/pmartRseq)
+* [ftmsRanalysis](https://github.com/EMSL-Computing/ftmsRanalysis)
+* [pmartR](https://github.com/pmartR/pmartR)
+
 ## Workshop Materials
 
 ### Amplicon Sequencing
