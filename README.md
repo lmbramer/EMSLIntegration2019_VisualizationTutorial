@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Pre-Workshop
 
-You can use the [editor on GitHub](https://github.com/lmbramer/EMSLIntegration2019_VisualizationTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Software Requirements
+Please follow the instructions in [this document](Software_Requirements_2019.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Workshop Materials
 
-### Markdown
+### Amplicon Sequencing
+* <a href="pmartRseq_workflow.Rmd" download> pmartRseq\_workflow.Rmd </a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Fourier Transform Mass Spectrometry
+* <a href="ftmsRanalysis.Rmd" download> ftmsRanalysis.Rmd </a>
 
-```markdown
-Syntax highlighted code block
+### Proteomics, Metabolomics, and/or Lipidomics (LC-/GC-MS)
+* <a href="Quality_Control_with_pmartR.Rmd" download> Quality\_Control\_with\_pmartR.Rmd </a>
 
-# Header 1
-## Header 2
-### Header 3
+## Workshop Data
 
-- Bulleted
-- List
+### Amplicon Sequencing
+* <a href="edata_16s.csv" download> edata\_16s.csv </a>
+* <a href="emeta_16s.csv" download> emeta\_16s.csv </a>
+* <a href="fdata_16s.csv" download> fdata\_16s.csv </a>
 
-1. Numbered
-2. List
+### Fourier Transform Mass Spectrometry
+* <a href="example12T_edata.csv" download> example12T\_edata.csv </a>
+* <a href="example12T_emeta.csv" download> example12T\_emeta.csv </a>
+* <a href="example12T_fdata.csv" download> example12T\_fdata.csv </a>
 
-**Bold** and _Italic_ and `Code` text
+### Proteomics, Metabolomics, and/or Lipidomics (LC-/GC-MS)
+* <a href="pep_edata.rda" download> pep\_edata.rda </a>
+* <a href="pep_emeta.rda" download> pep\_emeta.rda </a>
+* <a href="pep_fdata.rda" download> pep\_fdata.rda </a>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lmbramer/EMSLIntegration2019_VisualizationTutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
